@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gv/static/css/main.d796328f.css",
+    "main.js": "/gv/static/js/main.e0135a44.js",
+    "static/js/787.a8139454.chunk.js": "/gv/static/js/787.a8139454.chunk.js",
+    "static/media/Gvt_2.mp4": "/gv/static/media/Gvt_2.039b74bd2333938414d5.mp4",
+    "static/media/Inter-Bold.ttf": "/gv/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Jura-Light.ttf": "/gv/static/media/Jura-Light.86dd6b65616c8985720c.ttf",
+    "static/media/logo.svg": "/gv/static/media/logo.f0b6de5a314ebde7eb3f5a2e07cbdfcd.svg",
+    "static/media/RussoOne-Regular.ttf": "/gv/static/media/RussoOne-Regular.b2f5b287ccb8fd446eae.ttf",
+    "static/media/lets.svg": "/gv/static/media/lets.ff6fd5164b3a03696828fc3f4102bf4c.svg",
+    "static/media/phone.svg": "/gv/static/media/phone.5d70837ddb6b0bbc0d23e4c93c2adf2d.svg",
+    "index.html": "/gv/index.html",
+    "main.d796328f.css.map": "/gv/static/css/main.d796328f.css.map",
+    "main.e0135a44.js.map": "/gv/static/js/main.e0135a44.js.map",
+    "787.a8139454.chunk.js.map": "/gv/static/js/787.a8139454.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d796328f.css",
+    "static/js/main.e0135a44.js"
+  ]
+}
