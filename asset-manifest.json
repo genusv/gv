@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/gv/static/css/main.d796328f.css",
-    "main.js": "/gv/static/js/main.e0135a44.js",
+    "main.css": "/gv/static/css/main.7c55bbc2.css",
+    "main.js": "/gv/static/js/main.bca2d37c.js",
     "static/js/787.a8139454.chunk.js": "/gv/static/js/787.a8139454.chunk.js",
     "static/media/Gvt_2.mp4": "/gv/static/media/Gvt_2.039b74bd2333938414d5.mp4",
     "static/media/Inter-Bold.ttf": "/gv/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
     "static/media/Jura-Light.ttf": "/gv/static/media/Jura-Light.86dd6b65616c8985720c.ttf",
-    "static/media/logo.svg": "/gv/static/media/logo.f0b6de5a314ebde7eb3f5a2e07cbdfcd.svg",
+    "static/media/logo.svg": "/gv/static/media/logo.7085d82abd93c13c0bc40c7718e9321e.svg",
+    "static/media/globe.svg": "/gv/static/media/globe.8f29f85f08b3239973a34abe9caf92ce.svg",
     "static/media/RussoOne-Regular.ttf": "/gv/static/media/RussoOne-Regular.b2f5b287ccb8fd446eae.ttf",
+    "static/media/topt.svg": "/gv/static/media/topt.9aa13fb000c3cb40ececda16eb2e04e9.svg",
+    "static/media/gico.svg": "/gv/static/media/gico.9078f910971fa880529502b678bae310.svg",
+    "static/media/wallethome.svg": "/gv/static/media/wallethome.15a5d27f0935fa7c35070dcdb4ef476e.svg",
     "static/media/lets.svg": "/gv/static/media/lets.ff6fd5164b3a03696828fc3f4102bf4c.svg",
     "static/media/phone.svg": "/gv/static/media/phone.5d70837ddb6b0bbc0d23e4c93c2adf2d.svg",
     "index.html": "/gv/index.html",
-    "main.d796328f.css.map": "/gv/static/css/main.d796328f.css.map",
-    "main.e0135a44.js.map": "/gv/static/js/main.e0135a44.js.map",
+    "static/media/spline.svg": "/gv/static/media/spline.a91b13e9a98693a3f485886b84556c15.svg",
+    "main.7c55bbc2.css.map": "/gv/static/css/main.7c55bbc2.css.map",
+    "main.bca2d37c.js.map": "/gv/static/js/main.bca2d37c.js.map",
     "787.a8139454.chunk.js.map": "/gv/static/js/787.a8139454.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d796328f.css",
-    "static/js/main.e0135a44.js"
+    "static/css/main.7c55bbc2.css",
+    "static/js/main.bca2d37c.js"
   ]
 }
